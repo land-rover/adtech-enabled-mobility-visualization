@@ -31,3 +31,5 @@ However, I use the phrase "Dumb JavaScript" to emphasize its true role in my emu
 Note that Dumb JavaScript also has the virtue of increasing the responsiveness of the visualization.
 
 ## An Example
+
+<iframe src="test_map.html" height="500" width="500"></iframe>
