@@ -32,4 +32,4 @@ Note to developers: Dumb JavaScript also has the virtue of increasing the respon
 
 ## An Example
 
-<iframe src="test_map.html" height="500" width="700"></iframe>
+<iframe src="test_map.html" height="500" width="1000"></iframe>
